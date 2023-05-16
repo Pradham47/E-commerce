@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:#FFF8DE;
+}
+.buttons{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin-left:20%;
+    position:sticky;
+    top:0px;
+    z-index: 999;
+    background-color: #ffffff;
+
+}
+.btn{
+    margin: 10px;
+}
+.card-container{
+    display: flex;
+    width: 80%;
+    margin: 10%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   
+    
+}
+.card{
+    width : 25%;
+    height: 250px;
+    margin: 2%;
+    background: white;
+}
+.card-top-image{
+    width:80%;
+    height: 40%;
+    
+}
+
+.font-size{
+    font-size: 15px;
+}
+
+.background-white{
+    background: white ;
+}
+.button-container{
+    margin-top: -20px;
+    background :#fcfbff;
+    position: sticky;
+    top:0px;
+    z-index: 500;
+}
